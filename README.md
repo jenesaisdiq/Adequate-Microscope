@@ -12,10 +12,20 @@ Want to make one? Searching [Thingiverse](https://www.thingiverse.com/) for phon
 
 The `_to_RMS` design is sized to take an M25 to RMS adapter, and then the RMS-threaded objective screws into that. No reason you couldn't resize that inner diameter and go direct, though.
 
+### Important Dimensions if Designing your Own Case
+- Back of objective should be flush with phone/camera bump, no offset
+- 25mm diameter 3D printed hole (on FDM) seems to accept the M25 to RMS adapter well
+- A little chamfer on the front edge makes that screwing in process easier
+
 ## Phone to Stereo Zoom Microscope Eyepiece Adapter
 ![Microscope eyepiece adapter](/Pixel3/Pixel3_to_10x20_Eyepiece.jpg)
 These are also sorted by phone.
-The current one is sized for the 10X 20mm eyepieces that are standard on the scopes, and hence are named in the `_to_10x20_Eyepiece` format
+The current one is sized for the 10X 20mm eyepieces that are standard on the scopes, and hence are named in the `_to_10x20_Eyepiece` format.
+
+### Important Dimensions if Designing your Own Eyepiece Adapter
+- Distance from the back of the phone to the flat front surface of the eyepiece (approximately focal distance... ish) is 21mm
+- Diameter of the eyepiece is around 36mm, though on FDM this will be a little undersized and will need sanding
+- Ring at the top of the eyepiece extends about 6mm
 
 ## Cuvette
 I was tired of image distortions from whatever I'd put the subject in, so created this enclosure inspired by spectroscopy cuvettes. It's designed to take either 50x75mm (2"x3") large microscope slides as the walls, or you can stack two of the standard 25x75mm (1"x3") slides. There's also a recessed area in the top for an additional slide to be the lid.
