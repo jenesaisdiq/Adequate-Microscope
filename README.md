@@ -1,6 +1,6 @@
 # Adequate-Microscope
 
-Models, design files, and other bits that support the atoms on inadequatemuseum.com
+Models, design files, and other bits that support the atoms on [Inadequate Museum](https://www.inadequatemuseum.com)
 
 ## Phone to Objective Adapters
 ![Objective Adapter](/Pixel3/Pixel3_to_RMS_objective.jpg)
