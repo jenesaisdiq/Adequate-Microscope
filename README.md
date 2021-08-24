@@ -4,7 +4,12 @@ Models, design files, and other bits that support the atoms on [Inadequate Museu
 
 ## Phone to Objective Adapters
 ![Objective Adapter](/Pixel3/Pixel3_to_RMS_objective.jpg)
-These are organized by type of phone. Currently there is only `/Pixel3`
+These are organized by type of phone. Currently so far there is only `/Pixel3`. 
+
+Need another phone? Submit an issue! 
+Made one yourself? Submit a PR or send it my way!
+Want to make one? Searching [Thingiverse](https://www.thingiverse.com/) for phone cases is a great start.
+
 The `_to_RMS` design is sized to take an M25 to RMS adapter, and then the RMS-threaded objective screws into that. No reason you couldn't resize that inner diameter and go direct, though.
 
 ## Phone to Stereo Zoom Microscope
