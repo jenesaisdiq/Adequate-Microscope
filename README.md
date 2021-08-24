@@ -2,7 +2,7 @@
 
 Models, design files, and other bits that support the atoms on [Inadequate Museum](https://www.inadequatemuseum.com)
 
-## Phone to Objective Adapters
+## Phone to Microscope Objective Adapters
 ![Objective Adapter](/Pixel3/Pixel3_to_RMS_objective.jpg)
 These are organized by type of phone. Currently so far there is only `/Pixel3`. 
 
@@ -12,7 +12,8 @@ Want to make one? Searching [Thingiverse](https://www.thingiverse.com/) for phon
 
 The `_to_RMS` design is sized to take an M25 to RMS adapter, and then the RMS-threaded objective screws into that. No reason you couldn't resize that inner diameter and go direct, though.
 
-## Phone to Stereo Zoom Microscope
+## Phone to Stereo Zoom Microscope Eyepiece Adapter
+![Microscope eyepiece adapter](/Pixel3/Pixel3_to_10x20_Eyepiece.jpg)
 These are also sorted by phone.
 The current one is sized for the 10X 20mm eyepieces that are standard on the scopes, and hence are named in the `_to_10x20_Eyepiece` format
 
